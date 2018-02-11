@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CryptoCurrency Tracker</string>
+    <string name="next">NEXT</string>
+    <string name="coinMarketUrl">https://api.coinmarketcap.com/v1/ticker/</string>
+    <string name="headerText">Crypto</string>
+</resources>
